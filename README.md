@@ -1,5 +1,4 @@
-# Digital-marketing-attribution
-
+# Digital-marketing-attribution 
 ## Goal:
 In the current project my main goal is to have deeper understanding about the attribution model selection. Selecting a correct model is the mammoth challenge in data science.
 Hereby I consider a case where the marketing team wants to know how much contribution from the provided budget they should invest in marketing channels? 
